@@ -1,0 +1,48 @@
+body{
+	background-color:skyblue;
+}
+h1{
+	text-align:center;
+	background-color:orange;
+}
+.a{
+	 font-family:Georgia,Times,seriff;
+}
+.b{
+	font-family: Arial, sans-serif;
+}
+.c{
+	font-family:garamond;
+}
+.d{
+	font-family:verdana;
+}
+.e{
+	font-family:helvetica
+}
+.f{
+	font-family:courier new;
+	background-color:white;
+}
+.g{
+	font-family:lucida console;
+}
+.h{
+	font-family:monaco,monospace;
+}
+.i{
+	font-family:brush script mt;
+	background-color:red;
+}
+.j{
+	font-family:lucida handwriting;
+	text-shadow:2px 1px;
+}
+.k{
+	font-family:copperplate,fantasy;
+	text-shadow:2px 2px 5px red;
+}
+.l{
+	font-family:papyrus;
+	text-shadow:2px 1px red;
+}
